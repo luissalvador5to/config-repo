@@ -1,6 +1,6 @@
 #Application Name
-#person.estado: casado
-#person.edad: 40
+person.estado: casado
+person.edad: 40
 
-server:
-  port: 9072
+#server:
+#  port: 9072
