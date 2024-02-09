@@ -1,4 +1,3 @@
-service:
- name: test service A - person
 person:
  estado: soltero
+ edad: 20
