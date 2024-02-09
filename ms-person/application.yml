@@ -1,2 +1,4 @@
-person.estado: soltero
-person.edad: 20
+person:
+  estado: soltero
+person:
+  edad: 20
