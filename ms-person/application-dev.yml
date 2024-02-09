@@ -1,11 +1,4 @@
 #Application Name
-spring:
-  application:
-    name: ms-person
-  config:
-    import: optional:configserver:http://localhost:8888
-  profiles:
-    active: dev
 #person.estado: casado
 #person.edad: 40
 
