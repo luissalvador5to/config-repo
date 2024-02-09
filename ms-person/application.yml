@@ -1,2 +1,2 @@
-person:
-  estado: soltero
+service:
+ name: test service A
